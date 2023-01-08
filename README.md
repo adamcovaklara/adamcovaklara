@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @klarapacalova
-- 👀 I’m interested in mathematics and embedded software
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on any open source projects for embedded systems
+- 👀 I’m interested in coding
 - 📫 How to reach me - https://www.linkedin.com/in/klarapacalova/
 
 <!---
